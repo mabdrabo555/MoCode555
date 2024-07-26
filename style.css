@@ -1,0 +1,14 @@
+#card1{
+    display: flex;
+    gap: 3rem;
+    text-align: center;
+    margin-bottom: 15px;
+}
+#card2{
+    display: flex;
+    gap: 3rem;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
